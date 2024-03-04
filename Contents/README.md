@@ -5,5 +5,6 @@
     - [Realise a game](1.%20Strange%20Devices/1.%20Dev%20Logs/2.%20Realise%20a%20game.md)
     - [Verify the game](1.%20Strange%20Devices/1.%20Dev%20Logs/3.%20Verify%20the%20game.md)
 - [Your Own Game](2.%20Your%20Own%20Game)
-  - [Dev Logs](2.%20Your%20Own%20Game/Dev%20Logs)
-    - [Basic player movements](2.%20Your%20Own%20Game/Dev%20Logs/1.%20Basic%20player%20movement.md) 
+  - [Dev Logs](2.%20Your%20Own%20Game/1.%20Dev%20Logs)
+    - [Basic player movements](2.%20Your%20Own%20Game/1.%20Dev%20Logs/1.%20Basic%20player%20movement.md)
+    - [Basic Dash](2.%20Your%20Own%20Game/1.%20Dev%20Logs/2.%20Basic%20Dash.md)
