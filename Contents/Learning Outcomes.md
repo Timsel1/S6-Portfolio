@@ -1,4 +1,5 @@
 # Learning Outcomes
+In this document all learning outcomes are stated and explained. The documents used as evidence per learning outcome are also shown with the corresponding research methods from the DOT framework.
 
 ## LO1. Analysis 
 
