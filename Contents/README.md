@@ -8,3 +8,5 @@
   - [Dev Logs](2.%20Your%20Own%20Game/1.%20Dev%20Logs)
     - [Basic player movements](2.%20Your%20Own%20Game/1.%20Dev%20Logs/1.%20Basic%20player%20movement.md)
     - [Basic Dash](2.%20Your%20Own%20Game/1.%20Dev%20Logs/2.%20Basic%20Dash.md)
+    - [Basic Attack Combo](2.%20Your%20Own%20Game/1.%20Dev%20Logs/3.%20Basic%20Attack%20Combo.md)
+    - [Basic Attack Direction](2.%20Your%20Own%20Game/1.%20Dev%20Logs/4.%20Basic%20Attack%20Direction.md)
