@@ -14,10 +14,11 @@ Explanation:
 
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
+|[Strange Devices](../1.%20Strange%20Devices)|  |  |  |  |  |
 |[]()|  |  |  |  |  |
 |[]()|  |  |  |  |  |
 |[]()|  |  |  |  |  |
-|[]()|  |  |  |  |  |
+|[Your Own Game](../2.%20Your%20Own%20Game)|  |  |  |  |  |
 
 ## LO2. Advice 
 
