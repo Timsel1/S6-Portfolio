@@ -1,0 +1,27 @@
+# How can animations be added to the player character?
+The player character needs animations for the first playtest, so the feel of the combat can be verified. But since no one in the studio has experience with animation 
+
+# How did I solve this?
+First I needed to know what animations were needed for the first playtest and make a list of them. These animations were:
+- Running animation
+- Idle animation
+- Basic attack 1 animation
+- Basic attack 2 animation
+- Basic attack 3 animation
+- Dash animation
+
+Since I don’t have any experience animating characters, I imported the animations that were needed from mixamo. When trying them out the animations were broken.
+
+To fix this the Synty tutorial on how to use mixamo animations for their character models was used, since we are using multiple Synty assets. Apparently the human configuration for the animation needed to be changed a little bit for the animations to work correctly with the models.
+[How to animate a character with Mixamo for Unity - (Tutorial)  by #SyntyStudios](https://www.youtube.com/watch?v=9H0aJhKSlEQ)
+
+# What is the result?
+With this issue fixed, the player character now has animations for being idle, running, attacking and dashing. They don’t have perfect transitions yet, but they will do for the first playtest. 
+
+
+# What is the quality of the result?
+At the time of writing this has again only been tested by the people in my studio. We agreed that for the first playtest these animations will be sufficient, but in the next sprint we aim to improve them. For example the player shouldn’t look like they are sliding when they attack, but a step forward should be added to the animation to mimic the forward movement.
+This will be tested by people outside of our studio at the end of sprint 2, to validate this further.
+
+# What is the next step now that I have this result?
+The animations are done for now, but will be improved in the next sprint.
