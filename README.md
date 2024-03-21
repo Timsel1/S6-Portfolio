@@ -2,9 +2,9 @@
 
 During my 6th semester at Fontys ICT I followed the course Advanced Game Design (AGD). This course is made up of 3/4 projects. 
 These projects are:
-- Strange devices:  
+- [Strange Devices](Contents/1.%20Strange%20Devices):  
   Groups are made and receive 1 strange device idea. Three minigames had to be made with the received device. The goal of this assignment was to get back into game design and get to know your classmates.
-- YOG:  
+- [Your Own Game](Contents/2.%20Your%20Own%20Game):  
   The Your Own Game project. Now that you got to know your classmates and know their strengths, form groups to start your own game studio and design a game for the dragon's den. During the development of the game, write devlogs that show your contribution and show your growth as a game developer, based on the [Learning Outcomes](Contents/Learning%20Outcomes.md).
 - Deep Dive:  
   Deep Dives are clear, contained challenges with deliverables intended to be consumed by the many. The workload is about two weeks including transfer and documentation. The emphasis of the Deep Dive challenge lies in producing high-quality outcomes that are both valuable and practical.
