@@ -57,7 +57,7 @@ Explanation:
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
 |__[Strange Devices](./1.%20Strange%20Devices)__|  |  |  |  |  |
-|[]()|  |  |  |  |  |
+|[Design a game](./1.%20Strange%20Devices/1.%20Dev%20Logs/1.%20Design%20a%20game.md)|  |  |  |  |  |
 |[]()|  |  |  |  |  |
 |[]()|  |  |  |  |  |
 |__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
@@ -82,7 +82,7 @@ Explanation:
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
 |__[Strange Devices](./1.%20Strange%20Devices)__|  |  |  |  |  |
-|[]()|  |  |  |  |  |
+|[Realise a game](./1.%20Strange%20Devices/1.%20Dev%20Logs/2.%20Realise%20a%20game.md)|  |  |  |  |  |
 |[]()|  |  |  |  |  |
 |[]()|  |  |  |  |  |
 |__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
@@ -128,7 +128,7 @@ _ Are able to __define the project’s need for information and are able to desi
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
 |__[Strange Devices](./1.%20Strange%20Devices)__|  |  |  |  |  |
-|[]()|  |  |  |  |  |
+|[Validate the game](1.%20Strange%20Devices/1.%20Dev%20Logs/3.%20Validate%20the%20game.md)|  |  |  |  |  |
 |[]()|  |  |  |  |  |
 |[]()|  |  |  |  |  |
 |__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
