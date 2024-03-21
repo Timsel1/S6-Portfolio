@@ -10,6 +10,7 @@
     - [Basic Dash](2.%20Your%20Own%20Game/1.%20Dev%20Logs/2.%20Basic%20Dash.md)
     - [Basic Attack Combo](2.%20Your%20Own%20Game/1.%20Dev%20Logs/3.%20Basic%20Attack%20Combo.md)
     - [Basic Attack Direction](2.%20Your%20Own%20Game/1.%20Dev%20Logs/4.%20Basic%20Attack%20Direction.md)
+    - [Player Animation](2.%20Your%20Own%20Game/1.%20Dev%20Logs/5.%20Player%20Animation.md)
   - [Documents and Presentations](2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations)
     - [1 Pager](2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations/Crusadeon%201-Pager.pdf)
     - [10 Pager](2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations/Crusader%2010%20Pager.pdf)
