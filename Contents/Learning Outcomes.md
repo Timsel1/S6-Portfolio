@@ -98,7 +98,7 @@ Explanation:
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
 |__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
-|[]()|  |  |  |  |  |
+|[Project Management](./2.%20Your%20Own%20Game/3.%20Project%20Management)|  |  |  |  |  |
 |[]()|  |  |  |  |  |
 |[]()|  |  |  |  |  |
 
