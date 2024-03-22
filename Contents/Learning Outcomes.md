@@ -19,7 +19,7 @@ Explanation:
 |[]()|  |  |  |  |  |
 |[]()|  |  |  |  |  |
 |__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
-|[]()|  |  |  |  |  |
+|[Basic player movements](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/1.%20Basic%20player%20movement.md)|  |  |  |  |  |
 |[]()|  |  |  |  |  |
 |[]()|  |  |  |  |  |
 
@@ -61,7 +61,7 @@ Explanation:
 |[]()|  |  |  |  |  |
 |[]()|  |  |  |  |  |
 |__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
-|[]()|  |  |  |  |  |
+|[Basic player movements](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/1.%20Basic%20player%20movement.md)|  |  |  |  |  |
 |[]()|  |  |  |  |  |
 |[]()|  |  |  |  |  |
 
