@@ -14,10 +14,6 @@ Explanation:
 
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
-|__[Strange Devices](./1.%20Strange%20Devices)__|  |  |  |  |  |
-|[]()|  |  |  |  |  |
-|[]()|  |  |  |  |  |
-|[]()|  |  |  |  |  |
 |__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
 |[Basic player movements](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/1.%20Basic%20player%20movement.md)|  |  |  |  |  |
 |[Player Animation](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/5.%20Player%20Animation.md)|  |  |  |  |  |
@@ -34,10 +30,6 @@ Explanation:
 
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
-|__[Strange Devices](./1.%20Strange%20Devices)__|  |  |  |  |  |
-|[]()|  |  |  |  |  |
-|[]()|  |  |  |  |  |
-|[]()|  |  |  |  |  |
 |__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
 |[]()|  |  |  |  |  |
 |[]()|  |  |  |  |  |
@@ -59,7 +51,6 @@ Explanation:
 |__[Strange Devices](./1.%20Strange%20Devices)__|  |  |  |  |  |
 |[Design a game](./1.%20Strange%20Devices/1.%20Dev%20Logs/1.%20Design%20a%20game.md)|  |  |  |  |  |
 |[Realise a game](./1.%20Strange%20Devices/1.%20Dev%20Logs/2.%20Realise%20a%20game.md)|  |  |  |  |  |
-|[]()|  |  |  |  |  |
 |__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
 |[1 Pager](./2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations/Crusadeon%201-Pager.pdf)|  |  |  |  |  |
 |[10 Pager](./2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations/Crusader%2010%20Pager.pdf)|  |  |  |  |  |
@@ -87,8 +78,6 @@ Explanation:
 |:------:|:-----:|:---:|:-:|:------:|:------:|
 |__[Strange Devices](./1.%20Strange%20Devices)__|  |  |  |  |  |
 |[Realise a game](./1.%20Strange%20Devices/1.%20Dev%20Logs/2.%20Realise%20a%20game.md)|  |  |  |  |  |
-|[]()|  |  |  |  |  |
-|[]()|  |  |  |  |  |
 |__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
 |[Basic player movements](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/1.%20Basic%20player%20movement.md)|  |  |  |  |  |
 |[Basic Dash](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/2.%20Basic%20Dash.md)|  |  |  |  |  |
@@ -108,10 +97,6 @@ Explanation:
 
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
-|__[Strange Devices](./1.%20Strange%20Devices)__|  |  |  |  |  |
-|[]()|  |  |  |  |  |
-|[]()|  |  |  |  |  |
-|[]()|  |  |  |  |  |
 |__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
 |[]()|  |  |  |  |  |
 |[]()|  |  |  |  |  |
@@ -135,8 +120,6 @@ _ Are able to __define the project’s need for information and are able to desi
 |:------:|:-----:|:---:|:-:|:------:|:------:|
 |__[Strange Devices](./1.%20Strange%20Devices)__|  |  |  |  |  |
 |[Validate the game](1.%20Strange%20Devices/1.%20Dev%20Logs/3.%20Validate%20the%20game.md)|  |  |  |  |  |
-|[]()|  |  |  |  |  |
-|[]()|  |  |  |  |  |
 |__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
 |[1 Pager](./2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations/Crusadeon%201-Pager.pdf)|  |  |  |  |  |
 |[10 Pager](./2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations/Crusader%2010%20Pager.pdf)|  |  |  |  |  |
