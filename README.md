@@ -1,6 +1,6 @@
 # S6-Portfolio Tim Meijvogel
 
-During my 6th semester at Fontys ICT I followed the course Advanced Game Design (AGD). This course is made up of 3/4 projects. 
+During my 6th semester at Fontys ICT I followed the course Game Design Technology Advanced (GDT-A). This course is made up of 3/4 projects. 
 These projects are:
 - [Strange Devices](Contents/1.%20Strange%20Devices):  
   Groups are made and receive 1 strange device idea. Three minigames had to be made with the received device. The goal of this assignment was to get back into game design and get to know your classmates.
