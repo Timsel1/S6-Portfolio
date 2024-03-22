@@ -17,3 +17,4 @@
     - [10 Pager](2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations/Crusader%2010%20Pager.pdf)
     - [Pitch Presentation](2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations/Pitch%20Presentation.pdf)
   - [Project Management](2.%20Your%20Own%20Game/3.%20Project%20Management)
+  - [Playtests](2.%20Your%20Own%20Game/4.%20Playtests)
