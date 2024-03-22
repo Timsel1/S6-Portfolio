@@ -1,5 +1,5 @@
 # Launch Week - Strange Devices
-In this derectory you will find devlogs on my activities during this week. These devlog are about designing a mini game, realizing and validating it.
+In this directory you will find devlogs on my activities during this week. These devlog are about designing a mini game, realizing and validating it.
 
 ## Assignment Description
 The Launch Weeks are focused on defining yourself as a professional in the games industry.
