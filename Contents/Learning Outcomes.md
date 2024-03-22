@@ -58,7 +58,7 @@ Explanation:
 |:------:|:-----:|:---:|:-:|:------:|:------:|
 |__[Strange Devices](./1.%20Strange%20Devices)__|  |  |  |  |  |
 |[Design a game](./1.%20Strange%20Devices/1.%20Dev%20Logs/1.%20Design%20a%20game.md)|  |  |  |  |  |
-|[]()|  |  |  |  |  |
+|[Realise a game](./1.%20Strange%20Devices/1.%20Dev%20Logs/2.%20Realise%20a%20game.md)|  |  |  |  |  |
 |[]()|  |  |  |  |  |
 |__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
 |[1 Pager](./2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations/Crusadeon%201-Pager.pdf)|  |  |  |  |  |
