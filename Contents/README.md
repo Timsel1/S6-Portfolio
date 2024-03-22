@@ -1,4 +1,5 @@
 # Contents
+- [Learning Outcomes](Learning%20Outcomes.md)
 - [Strange Devices](1.%20Strange%20Devices)
   - [Dev Logs](1.%20Strange%20Devices/1.%20Dev%20Logs)
     - [Design a game](1.%20Strange%20Devices/1.%20Dev%20Logs/1.%20Design%20a%20game.md)
@@ -15,4 +16,3 @@
     - [1 Pager](2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations/Crusadeon%201-Pager.pdf)
     - [10 Pager](2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations/Crusader%2010%20Pager.pdf)
     - [Pitch Presentation](2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations/Pitch%20Presentation.pdf)
-- [Learning Outcomes](Learning%20Outcomes.md)
