@@ -1,5 +1,5 @@
 # Game Studio Project (YOG)
-In this directory my devlogs and other documents that are linked to this project. The devlogs are listed in chronological order, this way the steps I have taken can be followed easily.
+In this directory my devlogs and other documents that are linked to this project can be found. The devlogs are listed in chronological order, this way the steps I have taken can be followed easily.
 
 ## Assignment
 Welcome to the Game Studio project, an exciting opportunity for you to operate as a mini-game studio. This project challenges you to work in groups of 3-6 people, potentially including an optional SintLucas intern, to create your own game. Here's how you can navigate through this adventure.
