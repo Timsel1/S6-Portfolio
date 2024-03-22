@@ -14,11 +14,11 @@ Explanation:
 
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
-|### __[Strange Devices](./1.%20Strange%20Devices)__|  |  |  |  |  |
+|__[Strange Devices](./1.%20Strange%20Devices)__|  |  |  |  |  |
 |[]()|  |  |  |  |  |
 |[]()|  |  |  |  |  |
 |[]()|  |  |  |  |  |
-|### __[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
+|__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
 |[Basic player movements](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/1.%20Basic%20player%20movement.md)|  |  |  |  |  |
 |[Player Animation](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/5.%20Player%20Animation.md)|  |  |  |  |  |
 |[]()|  |  |  |  |  |
