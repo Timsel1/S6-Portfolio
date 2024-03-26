@@ -7,8 +7,8 @@ Since it was decided to use the cursor as the attack direction for the upcoming 
 ## What is the result?
 The player now always plays the running forward animation when moving and to rotate during movement follows the movement keys that are being pressed. The player can attack in the direction of the cursor, this way the shortcomings mentioned in the “How should attack direction be determined?” devlog are also solved, the player can attack in any direction they want even if it isn’t within one of the 8 possible movement input directions.
 
-|Player rotating based on movement input and attacking in the direction of the cursor|
-|:----------------------------------------------------------------------------------:|
+|Player rotating based on movement input, attacking in the direction of the cursor and dashing in the direction of the current rotation|
+|:------------------------------------------------------------------------------------------------------------------------------------:|
 |![Animations](https://github.com/Timsel1/S6-Portfolio/assets/90602424/1f92cf65-b5d3-4e42-b8d5-19b9c3939d44)|
 
 ## What is the quality of the result?
