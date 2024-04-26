@@ -6,5 +6,6 @@ In this directory all documents regarding project management can be found, this 
   The code convention was created to create consistency in our project, it is one of the things that we strictly adhere to and will be checked in a pull requests (PR).  
 
 
+To check out the Rogue Ape Studio organization click the link below:  
 __[Rogue Ape Studio Organization](https://github.com/Rogue-Ape-Studios)__
 
