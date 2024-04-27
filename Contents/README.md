@@ -32,5 +32,5 @@
     - [First Playtest Results](2.%20Your%20Own%20Game/4.%20Playtests/1.%20First%20Playtest%20Results.md)
     - [Test Report Playetest 1](2.%20Your%20Own%20Game/4.%20Playtests/2.%20Test%20Report%20Playtest%201.md)
     - [Second Playtest Results](2.%20Your%20Own%20Game/4.%20Playtests/3.%20Second%20Playtest%20Results.md)
-    - [Test Report Playetest 1](2.%20Your%20Own%20Game/4.%20Playtests/4.%20Test%20Report%20Playtest%202.md)
+    - [Test Report Playetest 2](2.%20Your%20Own%20Game/4.%20Playtests/4.%20Test%20Report%20Playtest%202.md)
 - [Deep Dive](3.%20Deep%20Dive)    
