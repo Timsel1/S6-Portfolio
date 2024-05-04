@@ -18,7 +18,7 @@
     - [Player Ability Animations](https://github.com/Timsel1/S6-Portfolio/blob/main/Contents/2.%20Your%20Own%20Game/1.%20Devlogs/09.%20Player%20Ability%20Animations.md)
     - [Enemy Attack Indication Types](2.%20Your%20Own%20Game/1.%20Devlogs/10.%20Enemy%20Attack%20Indicator%20Type.md)
     - [Enemy Attack Indication Implementation]()
-  - [Professional Documents]([2.%20Your%20Own%20Game/2.%20Professional%20Documents)
+  - [Professional Documents](2.%20Your%20Own%20Game/2.%20Professional%20Documents)
     - [1 Pager](2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations/Crusadeon%201-Pager.pdf)
     - [10 Pager](2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations/Crusader%2010%20Pager.pdf)
     - [Pitch Presentation](2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations/Pitch%20Presentation.pdf)
