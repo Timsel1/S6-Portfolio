@@ -56,8 +56,8 @@ Explanation:
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
 |__[Strange Devices](./1.%20Strange%20Devices)__|  |  |  |  |  |
-|[Design a game](./1.%20Strange%20Devices/1.%20Dev%20Logs/1.%20Design%20a%20game.md)|  |  |  |  |  |
-|[Realise a game](./1.%20Strange%20Devices/1.%20Dev%20Logs/2.%20Realise%20a%20game.md)|  |  |  |  |  |
+|[Design a game](./1.%20Strange%20Devices/1.%20Devlogs/1.%20Design%20a%20game.md)|  |  |  |  |  |
+|[Realise a game](./1.%20Strange%20Devices/1.%20Devlogs/2.%20Realise%20a%20game.md)|  |  |  |  |  |
 |__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
 |[1 Pager](./2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations/Crusadeon%201-Pager.pdf)|  |  |  |  |  |
 |[10 Pager](./2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations/Crusader%2010%20Pager.pdf)|  |  |  |  |  |
