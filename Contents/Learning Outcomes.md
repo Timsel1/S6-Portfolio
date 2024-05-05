@@ -96,7 +96,7 @@ Explanation:
 |[Basic Attack Direction](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/04.%20Basic%20Attack%20Direction.md)|  |  | A/B testing, Usability testing | Peer review | Prototyping, Code review | |
 |[Player Animation](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/05.%20Player%20Animation.md)| Literature study | Problem analysis |  |  | Prototyping, Code review | |
 |[New Player Rotation](2.%20Your%20Own%20Game/1.%20Devlogs/06.%20New%20Player%20Rotation.md)| | | Usability testing| |Code review | |
-|[Player Attack Hitbox](2.%20Your%20Own%20Game/1.%20Devlogs/07.%20Player%20Attack%20Hitbox.md)|Literature study, Available product analysis, Community research| Observation | Usability testing| | | Prototyping, Code review | |
+|[Player Attack Hitbox](2.%20Your%20Own%20Game/1.%20Devlogs/07.%20Player%20Attack%20Hitbox.md)|Literature study, Available product analysis, Community research| Observation | Usability testing| | Prototyping, Code review | |
 |[Enemy Attack Indication Implementation](2.%20Your%20Own%20Game/1.%20Devlogs/09.%20Enemy%20Attack%20Indicator%20Implementation.md)| Literature study| | | |Prototyping, Code review | Joker|
 |[]()| | | | | | |
 |[__Deep Dive__](3.%20Deep%20Dive)| | | | | | |
