@@ -102,7 +102,7 @@ Explanation:
 |[__Deep Dive__](3.%20Deep%20Dive)| | | | | | |
 |[Modular Arcade Kart](3.%20Deep%20Dive/1.%20Modular%20Arcade%20Kart.md)| Community research, Available product analysis |  | A/B testing |  | Prototyping | |
 
-## L5. Manage and control 
+## LO5. Manage and control 
 
 You are able to work in a structured and methodical way both individually as well as in a group context where you use relevant processes and tooling to facilitate your iterative process in order to achieve a desired level of quality. 
 
@@ -120,7 +120,7 @@ Explanation:
 |[Code Management](2.%20Your%20Own%20Game/3.%20Project%20Management/3.%20Code%20Management.md)|  |  |  |  |  |
 |[Agile Work Method](2.%20Your%20Own%20Game/3.%20Project%20Management/4.%20Agile%20Work%20Method.md)|  |  |  |  |  |
 
-## L6. Professional skills
+## LO6. Professional skills
 
 You demonstrate your professionalism as a Game Design specialist by the manner in which you perform during authentic IT professional tasks and the professional standard of resulting products. Process and products show your awareness of methodical problem solving, proactive project validation and quality monitoring and are self-explaining and transferable. You show and demonstrate you’re fit to work in a future-oriented organization and know what’s expected of you within such an organization. You can choose and justify a role which helps you become an expert in accordance with your personal development goals. You are able to prepare for your graduation internship.
 
