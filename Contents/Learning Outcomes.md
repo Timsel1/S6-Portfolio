@@ -67,7 +67,8 @@ Explanation:
 |[Player Animation](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/5.%20Player%20Animation.md)|  |  |  |  |  |
 |[Player Attack Hitbox](2.%20Your%20Own%20Game/1.%20Devlogs/07.%20Player%20Attack%20Hitbox.md)| | | | | |
 |[Enemy Attack Indication Types](2.%20Your%20Own%20Game/1.%20Devlogs/08.%20Enemy%20Attack%20Indicator%20Type.md)| | | | | |
-|[]()| | | | | |
+|[__Deep Dive__](3.%20Deep%20Dive)| | | | | |
+|[Modular Arcade Kart](3.%20Deep%20Dive/1.%20Modular%20Arcade%20Kart.md)| | | | | |
 
 ## LO4. Realization 
 
@@ -97,6 +98,8 @@ Explanation:
 |[Player Attack Hitbox](2.%20Your%20Own%20Game/1.%20Devlogs/07.%20Player%20Attack%20Hitbox.md)| | | | | |
 |[Enemy Attack Indication Implementation](2.%20Your%20Own%20Game/1.%20Devlogs/09.%20Enemy%20Attack%20Indicator%20Implementation.md)| | | | | |
 |[]()| | | | | |
+|[__Deep Dive__](3.%20Deep%20Dive)| | | | | |
+|[Modular Arcade Kart](3.%20Deep%20Dive/1.%20Modular%20Arcade%20Kart.md)| | | | | |
 
 ## L5. Manage and control 
 
