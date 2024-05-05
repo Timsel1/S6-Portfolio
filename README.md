@@ -6,7 +6,7 @@ These projects are:
   Groups are made and receive 1 strange device idea. Three minigames had to be made with the received device. The goal of this assignment was to get back into game design and get to know your classmates.
 - [Your Own Game](Contents/2.%20Your%20Own%20Game):  
   The Your Own Game project. Now that you got to know your classmates and know their strengths, form groups to start your own game studio and design a game for the dragon's den. During the development of the game, write devlogs that show your contribution and show your growth as a game developer, based on the [Learning Outcomes](Contents/Learning%20Outcomes.md).
-- Deep Dive:  
+- [Deep Dive:](Contents/3.%20Deep%20Dive)  
   Deep Dives are clear, contained challenges with deliverables intended to be consumed by the many. The workload is about two weeks including transfer and documentation. The emphasis of the Deep Dive challenge lies in producing high-quality outcomes that are both valuable and practical.
 - Industry Project:  
   If during the dragon's den you haven't received a green light to continue working on the YOG project, you will have to do an industry project. This is a project for a client, most likly outside of Fontys. The industry project will look like this:
