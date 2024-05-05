@@ -15,15 +15,15 @@ Explanation:
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
 |__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
-|[Basic player movements](2.%20Your%20Own%20Game/1.%20Devlogs/01.%20Basic%20player%20movement.md)|  |  |  |  |  |
-|[Player Animation](2.%20Your%20Own%20Game/1.%20Dev%20Logs/05.%20Player%20Animation.md)|  |  |  |  |  |
-|[Player Attack Hitbox](2.%20Your%20Own%20Game/1.%20Devlogs/07.%20Player%20Attack%20Hitbox.md)|  |  |  |  |  |
-|[Enemy Attack Indication Types](2.%20Your%20Own%20Game/1.%20Devlogs/08.%20Enemy%20Attack%20Indicator%20Type.md)|  |  |  |  |  |
-|[Playtests 1 Test Report](2.%20Your%20Own%20Game/4.%20Playtests/2.%20Test%20Report%20Playtest%201.md)|  |  |  |  |  |
-|[Playtests 2 Test Report](2.%20Your%20Own%20Game/4.%20Playtests/4.%20Test%20Report%20Playtest%202.md)|  |  |  |  |  |
+|[Basic player movements](2.%20Your%20Own%20Game/1.%20Devlogs/01.%20Basic%20player%20movement.md)| Available product analysis | Explore user requirements |  |  | Prototyping, Code review |
+|[Player Animation](2.%20Your%20Own%20Game/1.%20Devlogs/05.%20Player%20Animation.md)| Literature study | Problem analysis |  |  | Prototyping, Code review |
+|[Player Attack Hitbox](2.%20Your%20Own%20Game/1.%20Devlogs/07.%20Player%20Attack%20Hitbox.md)| Literature study, Available product analysis, Community research| Observation | Usability testing| | Prototyping, Code review |
+|[Enemy Attack Indication Types](2.%20Your%20Own%20Game/1.%20Devlogs/08.%20Enemy%20Attack%20Indicator%20Type.md)| Community research, Available product analysis |  |  |  |  |
+|[Test Report Playetest 1](2.%20Your%20Own%20Game/4.%20Playtests/2.%20Test%20Report%20Playtest%201.md)|  | Interview, Observation, Survey | Usability testing |  |  |
+|[Test Report Playetest 2](2.%20Your%20Own%20Game/4.%20Playtests/4.%20Test%20Report%20Playtest%202.md)|  | Interview, Observation, Survey | Usability testing |  |  |
 |__[Deep Dive](./3.%20Deep%20Dive)__|  |  |  |  |  |
-|[Modular Arcade Kart](3.%20Deep%20Dive/1.%20Modular%20Arcade%20Kart.md)|  |  |  |  |  |
-|[Karting Game Analysis](3.%20Deep%20Dive/2.%20Karting%20Game%20Analysis.md)|  |  |  |  |  |
+|[Modular Arcade Kart](3.%20Deep%20Dive/1.%20Modular%20Arcade%20Kart.md)| Community research, Available product analysis |  | A/B testing |  | Prototyping |
+|[Karting Game Analysis](3.%20Deep%20Dive/2.%20Karting%20Game%20Analysis.md)| Literature study, Available product analysis |  |  |  |  |
 
 ## LO2. Advice 
 
@@ -37,9 +37,9 @@ Explanation:
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
 |__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
-|[Input System Advice](2.%20Your%20Own%20Game/2.%20Professional%20Documents/05.%20Input%20Stystem%20Advice.md)|  |  |  |  |  |
-|[Playtests 1 Test Report](2.%20Your%20Own%20Game/4.%20Playtests/2.%20Test%20Report%20Playtest%201.md)|  |  |  |  |  |
-|[Playtests 2 Test Report](2.%20Your%20Own%20Game/4.%20Playtests/4.%20Test%20Report%20Playtest%202.md)|  |  |  |  |  |
+|[Input System Advice](2.%20Your%20Own%20Game/2.%20Professional%20Documents/05.%20Input%20Stystem%20Advice.md)| Community research, Available product analysis |  |  |  |  |
+|[Test Report Playetest 1](2.%20Your%20Own%20Game/4.%20Playtests/2.%20Test%20Report%20Playtest%201.md)| Expert interview | Survey, Observation | Usability testing |  |  |
+|[Test Report Playetest 2](2.%20Your%20Own%20Game/4.%20Playtests/4.%20Test%20Report%20Playtest%202.md)| Expert interview | Survey, Observation | Usability testing |  |  |
 |[]()|  |  |  |  |  |
 
 ## LO3. Design 
@@ -56,20 +56,20 @@ Explanation:
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
 |__[Strange Devices](./1.%20Strange%20Devices)__|  |  |  |  |  |
-|[Design a game](./1.%20Strange%20Devices/1.%20Devlogs/1.%20Design%20a%20game.md)|  |  |  |  |  |
-|[Realise a game](./1.%20Strange%20Devices/1.%20Devlogs/2.%20Realise%20a%20game.md)|  |  |  |  |  |
+|[Design a game](./1.%20Strange%20Devices/1.%20Devlogs/1.%20Design%20a%20game.md)|  |  |  |  | Brainstorm |
+|[Realise a game](./1.%20Strange%20Devices/1.%20Devlogs/2.%20Realise%20a%20game.md)|  |  |  |  | Prototyping |
 |__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
 |[1 Pager](./2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations/Crusadeon%201-Pager.pdf)|  |  |  |  |  |
 |[10 Pager](./2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations/Crusader%2010%20Pager.pdf)|  |  |  |  |  |
-|[Basic player movements](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/01.%20Basic%20player%20movement.md)|  |  |  |  |  |
-|[Basic Dash](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/02.%20Basic%20Dash.md)|  |  |  |  |  |
-|[Basic Attack Combo](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/03.%20Basic%20Attack%20Combo.md)|  |  |  |  |  |
-|[Basic Attack Direction](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/04.%20Basic%20Attack%20Direction.md)|  |  |  |  |  |
-|[Player Animation](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/05.%20Player%20Animation.md)|  |  |  |  |  |
-|[Player Attack Hitbox](2.%20Your%20Own%20Game/1.%20Devlogs/07.%20Player%20Attack%20Hitbox.md)| | | | | |
-|[Enemy Attack Indication Types](2.%20Your%20Own%20Game/1.%20Devlogs/08.%20Enemy%20Attack%20Indicator%20Type.md)| | | | | |
+|[Basic player movements](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/01.%20Basic%20player%20movement.md)| Available product analysis | Explore user requirements |  |  | Prototyping, Code review |
+|[Basic Dash](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/02.%20Basic%20Dash.md)|  |  |  | Peer review | Prototyping, Code review |
+|[Basic Attack Combo](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/03.%20Basic%20Attack%20Combo.md)|  | Explore user requirements |  |  | Prototyping, Code review |
+|[Basic Attack Direction](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/04.%20Basic%20Attack%20Direction.md)|  |  | A/B testing, Usability testing | Peer review | Prototyping, Code review |
+|[Player Animation](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/05.%20Player%20Animation.md)| Literature study | Problem analysis |  |  | Prototyping, Code review |
+|[Player Attack Hitbox](2.%20Your%20Own%20Game/1.%20Devlogs/07.%20Player%20Attack%20Hitbox.md)| Literature study, Available product analysis, Community research| Observation | Usability testing| | Prototyping, Code review |
+|[Enemy Attack Indication Types](2.%20Your%20Own%20Game/1.%20Devlogs/08.%20Enemy%20Attack%20Indicator%20Type.md)| Available product analysis, Community research | | | | |
 |[__Deep Dive__](3.%20Deep%20Dive)| | | | | |
-|[Modular Arcade Kart](3.%20Deep%20Dive/1.%20Modular%20Arcade%20Kart.md)| | | | | |
+|[Modular Arcade Kart](3.%20Deep%20Dive/1.%20Modular%20Arcade%20Kart.md)|Community research, Available product analysis |  | A/B testing |  | Prototyping |
 
 ## LO4. Realization 
 
@@ -85,22 +85,22 @@ Explanation:
 - You use __innovative and relevant technology__ that suit your needs such as VR headsets, Mobile devices, Game Controllers, Industry Standard Game Engines. 
 - A __complex context__ means that the scope and complexity of both the situation and the product are representative of a real world industry setting.
 
-|Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
-|:------:|:-----:|:---:|:-:|:------:|:------:|
-|__[Strange Devices](./1.%20Strange%20Devices)__|  |  |  |  |  |
-|[Realise a game](./1.%20Strange%20Devices/1.%20Dev%20Logs/2.%20Realise%20a%20game.md)|  |  |  |  |  |
-|__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
-|[Basic player movements](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/01.%20Basic%20player%20movement.md)|  |  |  |  |  |
-|[Basic Dash](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/02.%20Basic%20Dash.md)|  |  |  |  |  |
-|[Basic Attack Combo](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/03.%20Basic%20Attack%20Combo.md)|  |  |  |  |  |
-|[Basic Attack Direction](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/04.%20Basic%20Attack%20Direction.md)|  |  |  |  |  |
-|[Player Animation](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/05.%20Player%20Animation.md)|  |  |  |  |  |
-|[New Player Rotation](2.%20Your%20Own%20Game/1.%20Devlogs/06.%20New%20Player%20Rotation.md)| | | | | |
-|[Player Attack Hitbox](2.%20Your%20Own%20Game/1.%20Devlogs/07.%20Player%20Attack%20Hitbox.md)| | | | | |
-|[Enemy Attack Indication Implementation](2.%20Your%20Own%20Game/1.%20Devlogs/09.%20Enemy%20Attack%20Indicator%20Implementation.md)| | | | | |
-|[]()| | | | | |
-|[__Deep Dive__](3.%20Deep%20Dive)| | | | | |
-|[Modular Arcade Kart](3.%20Deep%20Dive/1.%20Modular%20Arcade%20Kart.md)| | | | | |
+|Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|[Extra](https://ictresearchmethods.nl/extra/)|
+|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|__[Strange Devices](./1.%20Strange%20Devices)__|  |  |  |  |  |  |
+|[Realise a game](./1.%20Strange%20Devices/1.%20Dev%20Logs/2.%20Realise%20a%20game.md)|  |  |  |  | Prototyping | |
+|__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  | |
+|[Basic player movements](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/01.%20Basic%20player%20movement.md)| Available product analysis | Explore user requirements |  |  | Prototyping, Code review | |
+|[Basic Dash](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/02.%20Basic%20Dash.md)|  |  |  | Peer review | Prototyping, Code review | |
+|[Basic Attack Combo](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/03.%20Basic%20Attack%20Combo.md)|  | Explore user requirements |  |  | Prototyping, Code review | |
+|[Basic Attack Direction](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/04.%20Basic%20Attack%20Direction.md)|  |  | A/B testing, Usability testing | Peer review | Prototyping, Code review | |
+|[Player Animation](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/05.%20Player%20Animation.md)| Literature study | Problem analysis |  |  | Prototyping, Code review | |
+|[New Player Rotation](2.%20Your%20Own%20Game/1.%20Devlogs/06.%20New%20Player%20Rotation.md)| | | Usability testing| |Code review | |
+|[Player Attack Hitbox](2.%20Your%20Own%20Game/1.%20Devlogs/07.%20Player%20Attack%20Hitbox.md)|Literature study, Available product analysis, Community research| Observation | Usability testing| | | Prototyping, Code review | |
+|[Enemy Attack Indication Implementation](2.%20Your%20Own%20Game/1.%20Devlogs/09.%20Enemy%20Attack%20Indicator%20Implementation.md)| Literature study| | | |Prototyping, Code review | Joker|
+|[]()| | | | | | |
+|[__Deep Dive__](3.%20Deep%20Dive)| | | | | | |
+|[Modular Arcade Kart](3.%20Deep%20Dive/1.%20Modular%20Arcade%20Kart.md)| Community research, Available product analysis |  | A/B testing |  | Prototyping | |
 
 ## L5. Manage and control 
 
@@ -137,7 +137,7 @@ _ Are able to __define the project’s need for information and are able to desi
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
 |__[Strange Devices](./1.%20Strange%20Devices)__|  |  |  |  |  |
-|[Validate the game](1.%20Strange%20Devices/1.%20Devlogs/3.%20Validate%20the%20game.md)|  |  |  |  |  |
+|[Validate the game](1.%20Strange%20Devices/1.%20Devlogs/3.%20Validate%20the%20game.md)|  | Observation | Usability testing | Peer review |  |
 |__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
 |[1 Pager](./2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations/Crusadeon%201-Pager.pdf)|  |  |  |  |  |
 |[10 Pager](./2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations/Crusader%2010%20Pager.pdf)|  |  |  |  |  |
@@ -147,7 +147,7 @@ _ Are able to __define the project’s need for information and are able to desi
 |[Dragons' Den Presentation](2.%20Your%20Own%20Game/2.%20Professional%20Documents/7.%20Rogue%20Ape%20Studio%20Dragons%20Den%20Presentation.pdf)|  |  |  |  |  |
 |[Code Management](2.%20Your%20Own%20Game/3.%20Project%20Management/3.%20Code%20Management.md)|  |  |  |  |  |
 |[Agile Work Method](2.%20Your%20Own%20Game/3.%20Project%20Management/4.%20Agile%20Work%20Method.md)|  |  |  |  |  |
-|[First Playtest Results](2.%20Your%20Own%20Game/4.%20Playtests/1.%20First%20Playtest%20Results.md)|  |  |  |  |  |
-|[Test Report Playetest 1](2.%20Your%20Own%20Game/4.%20Playtests/2.%20Test%20Report%20Playtest%201.md)|  |  |  |  |  |
-|[Second Playtest Results](2.%20Your%20Own%20Game/4.%20Playtests/3.%20Second%20Playtest%20Results.md)|  |  |  |  |  |
-|[Test Report Playetest 2](2.%20Your%20Own%20Game/4.%20Playtests/4.%20Test%20Report%20Playtest%202.md)|  |  |  |  |  |
+|[First Playtest Results](2.%20Your%20Own%20Game/4.%20Playtests/1.%20First%20Playtest%20Results.md)| Expert interview | Survey |  |  |  |
+|[Test Report Playetest 1](2.%20Your%20Own%20Game/4.%20Playtests/2.%20Test%20Report%20Playtest%201.md)|Expert interview | Survey, Observation | Usability testing |  |  |
+|[Second Playtest Results](2.%20Your%20Own%20Game/4.%20Playtests/3.%20Second%20Playtest%20Results.md)| Expert interview | Survey |  |  |  |
+|[Test Report Playetest 2](2.%20Your%20Own%20Game/4.%20Playtests/4.%20Test%20Report%20Playtest%202.md)| Expert interview | Survey, Observation | Usability testing |  |  |
