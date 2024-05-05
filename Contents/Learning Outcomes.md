@@ -21,6 +21,7 @@ Explanation:
 |[Player Attack Hitbox](2.%20Your%20Own%20Game/1.%20Devlogs/07.%20Player%20Attack%20Hitbox.md)|  |  |  |  |  |
 |[Enemy Attack Indication Types](2.%20Your%20Own%20Game/1.%20Devlogs/08.%20Enemy%20Attack%20Indicator%20Type.md)|  |  |  |  |  |
 |__[Deep Dive](./3.%20Deep%20Dive)__|  |  |  |  |  |
+|[Modular Arcade Kart](3.%20Deep%20Dive/1.%20Modular%20Arcade%20Kart.md)|  |  |  |  |  |
 |[Karting Game Analysis](3.%20Deep%20Dive/2.%20Karting%20Game%20Analysis.md)|  |  |  |  |  |
 
 ## LO2. Advice 
@@ -64,6 +65,9 @@ Explanation:
 |[Basic Attack Combo](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/3.%20Basic%20Attack%20Combo.md)|  |  |  |  |  |
 |[Basic Attack Direction](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/4.%20Basic%20Attack%20Direction.md)|  |  |  |  |  |
 |[Player Animation](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/5.%20Player%20Animation.md)|  |  |  |  |  |
+|[Player Attack Hitbox](2.%20Your%20Own%20Game/1.%20Devlogs/07.%20Player%20Attack%20Hitbox.md)| | | | | |
+|[Enemy Attack Indication Types](2.%20Your%20Own%20Game/1.%20Devlogs/08.%20Enemy%20Attack%20Indicator%20Type.md)| | | | | |
+|[]()| | | | | |
 
 ## LO4. Realization 
 
@@ -89,6 +93,10 @@ Explanation:
 |[Basic Attack Combo](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/3.%20Basic%20Attack%20Combo.md)|  |  |  |  |  |
 |[Basic Attack Direction](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/4.%20Basic%20Attack%20Direction.md)|  |  |  |  |  |
 |[Player Animation](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/5.%20Player%20Animation.md)|  |  |  |  |  |
+|[New Player Rotation](2.%20Your%20Own%20Game/1.%20Devlogs/06.%20New%20Player%20Rotation.md)| | | | | |
+|[Player Attack Hitbox](2.%20Your%20Own%20Game/1.%20Devlogs/07.%20Player%20Attack%20Hitbox.md)| | | | | |
+|[Enemy Attack Indication Implementation](2.%20Your%20Own%20Game/1.%20Devlogs/09.%20Enemy%20Attack%20Indicator%20Implementation.md)| | | | | |
+|[]()| | | | | |
 
 ## L5. Manage and control 
 
