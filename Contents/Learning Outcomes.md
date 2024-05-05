@@ -15,8 +15,8 @@ Explanation:
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
 |__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
-|[Basic player movements](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/01.%20Basic%20player%20movement.md)|  |  |  |  |  |
-|[Player Animation](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/05.%20Player%20Animation.md)|  |  |  |  |  |
+|[Basic player movements](2.%20Your%20Own%20Game/1.%20Dev%20Logs/01.%20Basic%20player%20movement.md)|  |  |  |  |  |
+|[Player Animation](2.%20Your%20Own%20Game/1.%20Dev%20Logs/05.%20Player%20Animation.md)|  |  |  |  |  |
 |[Player Attack Hitbox](2.%20Your%20Own%20Game/1.%20Devlogs/07.%20Player%20Attack%20Hitbox.md)|  |  |  |  |  |
 |[Enemy Attack Indication Types](2.%20Your%20Own%20Game/1.%20Devlogs/08.%20Enemy%20Attack%20Indicator%20Type.md)|  |  |  |  |  |
 |[Playtests 1 Test Report](2.%20Your%20Own%20Game/4.%20Playtests/2.%20Test%20Report%20Playtest%201.md)|  |  |  |  |  |
