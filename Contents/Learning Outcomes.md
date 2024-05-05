@@ -15,11 +15,12 @@ Explanation:
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
 |__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
-|[Basic player movements](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/1.%20Basic%20player%20movement.md)|  |  |  |  |  |
-|[Player Animation](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/5.%20Player%20Animation.md)|  |  |  |  |  |
-|[Playtests](./2.%20Your%20Own%20Game/4.%20Playtests)|  |  |  |  |  |
+|[Basic player movements](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/01.%20Basic%20player%20movement.md)|  |  |  |  |  |
+|[Player Animation](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/05.%20Player%20Animation.md)|  |  |  |  |  |
 |[Player Attack Hitbox](2.%20Your%20Own%20Game/1.%20Devlogs/07.%20Player%20Attack%20Hitbox.md)|  |  |  |  |  |
 |[Enemy Attack Indication Types](2.%20Your%20Own%20Game/1.%20Devlogs/08.%20Enemy%20Attack%20Indicator%20Type.md)|  |  |  |  |  |
+|[Playtests 1 Test Report](2.%20Your%20Own%20Game/4.%20Playtests/2.%20Test%20Report%20Playtest%201.md)|  |  |  |  |  |
+|[Playtests 2 Test Report](2.%20Your%20Own%20Game/4.%20Playtests/4.%20Test%20Report%20Playtest%202.md)|  |  |  |  |  |
 |__[Deep Dive](./3.%20Deep%20Dive)__|  |  |  |  |  |
 |[Modular Arcade Kart](3.%20Deep%20Dive/1.%20Modular%20Arcade%20Kart.md)|  |  |  |  |  |
 |[Karting Game Analysis](3.%20Deep%20Dive/2.%20Karting%20Game%20Analysis.md)|  |  |  |  |  |
@@ -36,7 +37,7 @@ Explanation:
 |Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
 |:------:|:-----:|:---:|:-:|:------:|:------:|
 |__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
-|[Input System Advice](2.%20Your%20Own%20Game/2.%20Professional%20Documents/5.%20Input%20Stystem%20Advice.md)|  |  |  |  |  |
+|[Input System Advice](2.%20Your%20Own%20Game/2.%20Professional%20Documents/05.%20Input%20Stystem%20Advice.md)|  |  |  |  |  |
 |[Playtests 1 Test Report](2.%20Your%20Own%20Game/4.%20Playtests/2.%20Test%20Report%20Playtest%201.md)|  |  |  |  |  |
 |[Playtests 2 Test Report](2.%20Your%20Own%20Game/4.%20Playtests/4.%20Test%20Report%20Playtest%202.md)|  |  |  |  |  |
 |[]()|  |  |  |  |  |
@@ -60,11 +61,11 @@ Explanation:
 |__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
 |[1 Pager](./2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations/Crusadeon%201-Pager.pdf)|  |  |  |  |  |
 |[10 Pager](./2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations/Crusader%2010%20Pager.pdf)|  |  |  |  |  |
-|[Basic player movements](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/1.%20Basic%20player%20movement.md)|  |  |  |  |  |
-|[Basic Dash](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/2.%20Basic%20Dash.md)|  |  |  |  |  |
-|[Basic Attack Combo](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/3.%20Basic%20Attack%20Combo.md)|  |  |  |  |  |
-|[Basic Attack Direction](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/4.%20Basic%20Attack%20Direction.md)|  |  |  |  |  |
-|[Player Animation](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/5.%20Player%20Animation.md)|  |  |  |  |  |
+|[Basic player movements](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/01.%20Basic%20player%20movement.md)|  |  |  |  |  |
+|[Basic Dash](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/02.%20Basic%20Dash.md)|  |  |  |  |  |
+|[Basic Attack Combo](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/03.%20Basic%20Attack%20Combo.md)|  |  |  |  |  |
+|[Basic Attack Direction](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/04.%20Basic%20Attack%20Direction.md)|  |  |  |  |  |
+|[Player Animation](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/05.%20Player%20Animation.md)|  |  |  |  |  |
 |[Player Attack Hitbox](2.%20Your%20Own%20Game/1.%20Devlogs/07.%20Player%20Attack%20Hitbox.md)| | | | | |
 |[Enemy Attack Indication Types](2.%20Your%20Own%20Game/1.%20Devlogs/08.%20Enemy%20Attack%20Indicator%20Type.md)| | | | | |
 |[__Deep Dive__](3.%20Deep%20Dive)| | | | | |
@@ -89,11 +90,11 @@ Explanation:
 |__[Strange Devices](./1.%20Strange%20Devices)__|  |  |  |  |  |
 |[Realise a game](./1.%20Strange%20Devices/1.%20Dev%20Logs/2.%20Realise%20a%20game.md)|  |  |  |  |  |
 |__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
-|[Basic player movements](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/1.%20Basic%20player%20movement.md)|  |  |  |  |  |
-|[Basic Dash](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/2.%20Basic%20Dash.md)|  |  |  |  |  |
-|[Basic Attack Combo](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/3.%20Basic%20Attack%20Combo.md)|  |  |  |  |  |
-|[Basic Attack Direction](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/4.%20Basic%20Attack%20Direction.md)|  |  |  |  |  |
-|[Player Animation](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/5.%20Player%20Animation.md)|  |  |  |  |  |
+|[Basic player movements](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/01.%20Basic%20player%20movement.md)|  |  |  |  |  |
+|[Basic Dash](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/02.%20Basic%20Dash.md)|  |  |  |  |  |
+|[Basic Attack Combo](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/03.%20Basic%20Attack%20Combo.md)|  |  |  |  |  |
+|[Basic Attack Direction](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/04.%20Basic%20Attack%20Direction.md)|  |  |  |  |  |
+|[Player Animation](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/05.%20Player%20Animation.md)|  |  |  |  |  |
 |[New Player Rotation](2.%20Your%20Own%20Game/1.%20Devlogs/06.%20New%20Player%20Rotation.md)| | | | | |
 |[Player Attack Hitbox](2.%20Your%20Own%20Game/1.%20Devlogs/07.%20Player%20Attack%20Hitbox.md)| | | | | |
 |[Enemy Attack Indication Implementation](2.%20Your%20Own%20Game/1.%20Devlogs/09.%20Enemy%20Attack%20Indicator%20Implementation.md)| | | | | |
@@ -140,7 +141,7 @@ _ Are able to __define the project’s need for information and are able to desi
 |__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
 |[1 Pager](./2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations/Crusadeon%201-Pager.pdf)|  |  |  |  |  |
 |[10 Pager](./2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations/Crusader%2010%20Pager.pdf)|  |  |  |  |  |
-|[Pitch Presentation](./2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations/Pitch%20Presentation.pdf)|  |  |  |  |  |
+|[Pitch Presentation](2.%20Your%20Own%20Game/2.%20Professional%20Documents/3.%20Crusadeon%20Pitch%20Presentation.pdf)|  |  |  |  |  |
 |[Retrospectives](2.%20Your%20Own%20Game/2.%20Professional%20Documents/4.%20Retrospectives.md)|  |  |  |  |  |
 |[Role And Future](2.%20Your%20Own%20Game/2.%20Professional%20Documents/6.%20Role%20And%20Future.md)|  |  |  |  |  |
 |[Dragons' Den Presentation](2.%20Your%20Own%20Game/2.%20Professional%20Documents/7.%20Rogue%20Ape%20Studio%20Dragons%20Den%20Presentation.pdf)|  |  |  |  |  |
