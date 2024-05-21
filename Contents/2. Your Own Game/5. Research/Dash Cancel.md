@@ -21,20 +21,20 @@ The current dash mechanic is mainly used to escape enemies/tough situations or d
 **Momentum**: Dash cancelling sustains gameplay momentum, ensuring that action remains continuous and thrilling. This momentum preservation further solidifies the player's immersion in the game world and their role as a formidable warrior.  
 
 ## Pros and Cons
-|                	| **With Dash Cancel**                                                                                       	| **Without Dash Cancel**                                             	  |
-|-----------------|-------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| **Pros**       	| - Extra dynamic: players can now use the dash effectively for offensive purposes.                          	| - No extra work: can keep the old animation.                       	    |
-|                	| - Increased responsiveness: players feel more control over their character’s actions.                     	| - Lower skill ceiling                                                                    	  |
-|                	| - Fluidity in combat: seamless transition between movement and attacks, enhancing combat flow.             	|                                                                     	  |
-|                	| - Tactical flexibility: enables strategic repositioning mid-fight.                                         	|                                                                     	  |
-|                	| - Skill expression: higher skill ceiling for experienced players.                                          	|                                                                     	  |
-|                	| - Empowerment: enhances the sensation of being a powerful character.                                       	|                                                                     	  |
-|                	| - Momentum: maintains continuous and thrilling gameplay.                                                   	|                                                                     	  |
-|                	| - Satisfying mechanics: immediate feedback and gratification from mastering the mechanic.                  	|                                                                     	  |
-| **Cons**       	| - New animation needed.                                                                                    	| - Can feel like a commitment to dash.                               	  |
-|                	| - Balancing issues: requires careful adjustments to ensure fairness.                                       	| - Possible feeling of input lag.                                    	  |
-|                	| - Extra work needed: remove some animation triggers and implement new ones.                                	| - Less control: players may feel restricted in their movement options.  |
-|                	|                                                                                                            	| - Reduced dynamic gameplay: combat may feel less fluid and engaging.	  |
+|                	| **With Dash Cancel**                                                                                     	| **Without Dash Cancel**                                             |
+|-----------------|-----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
+| **Pros**       	| Extra dynamic: players can now use the dash effectively for offensive purposes.                          	| No extra work: can keep the old animation.                       	  |
+|                	| Increased responsiveness: players feel more control over their character’s actions.                     	| Lower skill ceiling                                                 |
+|                	| Fluidity in combat: seamless transition between movement and attacks, enhancing combat flow.             	|                                                                     |
+|                	| Tactical flexibility: enables strategic repositioning mid-fight.                                         	|                                                                     |
+|                	| Skill expression: higher skill ceiling for experienced players.                                          	|                                                                     |
+|                	| Empowerment: enhances the sensation of being a powerful character.                                       	|                                                                     |
+|                	| Momentum: maintains continuous and thrilling gameplay.                                                   	|                                                                     |
+|                	| Satisfying mechanics: immediate feedback and gratification from mastering the mechanic.                  	|                                                                     |
+| **Cons**       	| New animation needed.                                                                                    	| Can feel like a commitment to dash.                               	|
+|                	| Balancing issues: requires careful adjustments to ensure fairness.                                       	| Possible feeling of input lag.                                    	|
+|                	| Extra work needed: remove some animation triggers and implement new ones.                                	| Less control: players may feel restricted in their movement options.|
+|                	|                                                                                                           | Reduced dynamic gameplay: combat may feel less fluid and engaging.	|
 
 
 
