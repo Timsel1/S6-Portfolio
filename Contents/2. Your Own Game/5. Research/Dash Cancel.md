@@ -9,10 +9,15 @@ The current dash mechanic is mainly used to escape enemies/tough situations or d
 
 ## Dash Cancel Effect
 **Enhanced Player Control**: Allowing players to cancel a dash at any point to perform an attack or ability significantly increases responsiveness.  
+
 **Fluidity in Combat**: Dash cancelling introduces a seamless transition between movement and attacks, imbuing combat with a dynamic and smooth flow. This fluidity intensifies engagements, heightening the overall excitement and engagement of combat scenarios. 
+
 **Strategic Depth**: Dash cancelling adds layers of tactical flexibility to gameplay, enabling players to strategically reposition themselves mid-fight. This strategic depth amplifies the complexity of combat encounters, encouraging adaptive gameplay and nuanced decision-making.  
-**Skill Expression**: Mastery of dash cancelling becomes a marker of skill, as players adept at timing and decision-making maximize their effectiveness. This skill ceiling rewards experienced players and fosters a sense of accomplishment and progression.  
-**Power Fantasy**: Interrupting a dash to unleash powerful attacks reinforces the player's sense of empowerment and dominance. This aligns seamlessly with power fantasy themes, amplifying the sensation of being an unstoppable force on the battlefield.  
+
+**Skill Expression**: Mastery of dash cancelling becomes a marker of skill, as players adept at timing and decision-making maximize their effectiveness. This skill ceiling rewards experienced players and fosters a sense of accomplishment and progression. 
+
+**Power Fantasy**: Interrupting a dash to unleash powerful attacks reinforces the player's sense of empowerment and dominance. This aligns seamlessly with power fantasy themes, amplifying the sensation of being an unstoppable force on the battlefield. 
+
 **Momentum**: Dash cancelling sustains gameplay momentum, ensuring that action remains continuous and thrilling. This momentum preservation further solidifies the player's immersion in the game world and their role as a formidable warrior.  
 
 ## Pros and Cons
