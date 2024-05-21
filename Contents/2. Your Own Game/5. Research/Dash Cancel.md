@@ -37,6 +37,14 @@ The current dash mechanic is mainly used to escape enemies/tough situations or d
 |                	|                                                                                                           | Reduced dynamic gameplay: combat may feel less fluid and engaging.	|
 
 
+## Conclusion
+Implementing a dash cancel introduces several advantages, like increased responsiveness, enhanced combat fluidity, and greater tactical flexibility. These elements lead to a more dynamic and engaging gameplay experience, rewarding skilled players with opportunities for skill expression and empowerment. The ability to interrupt a dash to unleash attacks aligns with the sensation aesthetic of the power fantasy experience we are aiming for. It enhances the player's sense of being an unstoppable force, maintaining continuous gameplay that reinforces the feeling of empowerment and dominance.
+
+However, the addition of a dash cancel also comes with its own challenges, such as the need for a new animation, balancing considerations, and a little bit of additional development work. Addressing these challenges is crucial to make sure that the mechanic is well implemented and contributes positively to the overall game experience.
+
+These challenges can be avoided by retaining the traditional dash mechanic, allowing us to preserve existing animations and not increase the current workload. This approach may result in a less responsive and dynamic gameplay experience and potentially a lower skill ceiling. The lack of dash canceling might make the dash feel like a rigid commitment, detracting from the fluidity and intensity that a power fantasy demands.
+
+Ultimately, to decide to implement a dash cancel, we should consider its priority and the time needed to implement this mechanic. 
 
 
 
