@@ -1,0 +1,29 @@
+# How should the arcade karts be made in unity?
+I need to know how to create a kart in unity, since this is something I have never done before. What I’m looking for is a system that will allow people to use any model they want and only edit the stats in my scriptable object to set up their kart.
+
+## How did I solve this?
+I started looking for tutorials to see how others tackle this problem. I mainly came across 2 solutions, people creating their own suspension system with raycasts and unity wheel colliders. Only having a couple weeks to create this project I decided I would look into the wheel colliders, since it seems like it has the same functionality as most if not all custom suspension I found.
+
+To learn more about wheel colliders I looked up videos that explain all the variables it has and looked at the unity page about them.
+
+https://www.youtube.com/watch?v=c-yhZwXSx_c
+
+I used this information to create my prototypes using the wheel colliders.
+
+|Prototype 1|Prototype 2 with deceleration|
+|:-------------:|:------------------------------------:|
+|![CarFirstPrototypeWheels](https://github.com/Timsel1/S6-Portfolio/assets/90602424/61b8f604-22f7-451f-940f-3b3b8aebe17d)|![CarSecondPrototypeWheels](https://github.com/Timsel1/S6-Portfolio/assets/90602424/44c0eb04-b98f-4599-b71d-5db0e5d0a2eb)|
+
+After creating these prototypes I wasn’t sure this was the solution I wanted to use, the physics were more realistic than what I was aiming for, e.g. sliding out when turning at a high speed, this meant that if the kart stats were changed, a developer would also have to alter the wheel colliders so the kart could function. This would mean a developer would need to understand how the wheel colliders function, meaning these wheel colliders don’t fit well into my goal. So I looked to see if I could find another solution. I came across a video of someone explaining how they made a clone of Mario kart and they provided their code in the description. This code served as a good starting point, but had to be completely rewritten, because of its structure, naming and libraries I was planning to use.
+
+## What is the result?
+I used the script used in the video mentioned before to create a prototype.
+
+|![CarPrototypeSphere (2)](https://github.com/Timsel1/S6-Portfolio/assets/90602424/db437b0d-5db2-4044-a770-b3653952b12b)|
+|:-:|
+
+## What is the quality of the result?
+The current code is bad to put it politely, there are no conventions, a lot of magic numbers and it is not dynamic at all. It does however have my desired functionality, if I can use this as a template to create the same functionality for my kart it will be possible to get an arcade kart that can be quickly tuned with a scriptable object.
+
+## What is the next step now that I have this result?
+The next step will be to completely rewrite the code, with the libraries I planned to use.
