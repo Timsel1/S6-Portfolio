@@ -1,5 +1,5 @@
 # Professional Documents
-Most of these documents are group documents (01, 02, 03, 07), my contribution is not immediatly clear, so I will describe my contribution here.
+Most of these documents are group documents (01, 02, 03, 07, 08), my contribution is not immediatly clear, so I will describe my contribution here.
 
  - 1 pager  
 The idea for the game was made up before the semester started, out of the ideas Crusadeon was chosen to be developed. There was no input from me in the 1 pager.
@@ -9,3 +9,5 @@ Since most of the ideas were already made up, I was chosen to start on a player 
 A whiteboard sessions was held to determine what would be important for the presentation. I would participate in this sessions and add ideas to the board, after narrowing things down one person of the group made the presentation.
  - Dragons pitch  
 A whiteboard sessions was held to determine what would be important for the presentation. I would participate in this sessions and add ideas to the board, after narrowing things down one person of the group made the presentation.
+- Project plan
+My contribution was the appendix that is written at the bottom of the document, further explaining the tasks mentioned in the document.
