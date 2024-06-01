@@ -35,6 +35,7 @@
     - [Test Report Playetest 1](2.%20Your%20Own%20Game/4.%20Playtests/2.%20Test%20Report%20Playtest%201.md)
     - [Second Playtest Results](2.%20Your%20Own%20Game/4.%20Playtests/3.%20Second%20Playtest%20Results.md)
     - [Test Report Playetest 2](2.%20Your%20Own%20Game/4.%20Playtests/4.%20Test%20Report%20Playtest%202.md)
+    - [Night of the Nerds](2.%20Your%20Own%20Game/4.%20Playtests/5.%20Night%20of%20the%20Nerds%20Playtest.md)
   - [Research]
     - [Input System](2.%20Your%20Own%20Game/5.%20Research/01.%20Input%20System%20Research.md)
     - [Dash Cancel](2.%20Your%20Own%20Game/5.%20Research/02.%20Dash%20Cancel.md)
