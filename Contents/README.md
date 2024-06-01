@@ -16,6 +16,7 @@
     - [Player Attack Hitbox](2.%20Your%20Own%20Game/1.%20Devlogs/07.%20Player%20Attack%20Hitbox.md)
     - [Enemy Attack Indication Types](2.%20Your%20Own%20Game/1.%20Devlogs/08.%20Enemy%20Attack%20Indicator%20Type.md)
     - [Enemy Attack Indication Implementation](2.%20Your%20Own%20Game/1.%20Devlogs/09.%20Enemy%20Attack%20Indicator%20Implementation.md)
+    - [Ability System](2.%20Your%20Own%20Game/1.%20Devlogs/10.%20Ability%20System.md)
   - [Professional Documents](2.%20Your%20Own%20Game/2.%20Professional%20Documents)
     - [1 Pager](2.%20Your%20Own%20Game/2.%20Professional%20Documents/01.%20Crusadeon%201-Pager.pdf)
     - [10 Pager](2.%20Your%20Own%20Game/2.%20Professional%20Documents/02.%20Crusader%2010%20Pager.pdf)
