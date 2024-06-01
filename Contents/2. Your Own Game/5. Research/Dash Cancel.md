@@ -56,6 +56,9 @@ Under Other attacks, dash attack is one of the options. Here is explained what b
 ([PC] How to evasion cancel? (2021). reddit.com. Geraadpleegd op 22 mei 2024, van https://www.reddit.com/r/Nioh/comments/m13z8a/pc_how_to_evasion_cancel/)  
 This shows that when games have dash/dodge cancels, it might not be clear to all players how to do it. Some players might not even know it is a feature.
 
+(PSA: Dash can affect many attacks in interesting and abuseable ways. (2020). reddit.com. Geraadpleegd op 21 mei 2024, van https://www.reddit.com/r/HadesTheGame/comments/hoq0d5/psa_dash_can_affect_many_attacks_in_interesting/)  
+This source shows how the dash gives people more offensive options by changing attacks, based on whether the are performed during a dash. This introduces more skilled combos and gives players more freedom to develop their playstyles.
+
 
 
 
