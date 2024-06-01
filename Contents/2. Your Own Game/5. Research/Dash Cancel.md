@@ -34,7 +34,7 @@ The current dash mechanic is mainly used to escape enemies/tough situations or d
 | **Cons**       	| New animation needed.                                                                                    	| Can feel like a commitment to dash.                               	|
 |                	| Balancing issues: requires careful adjustments to ensure fairness.                                       	| Possible feeling of input lag.                                    	|
 |                	| Extra work needed: remove some animation triggers and implement new ones.                                	| Less control: players may feel restricted in their movement options.|
-|                	|                                                                                                           | Reduced dynamic gameplay: combat may feel less fluid and engaging.	|
+|                	| Might not be clear to all players that dash cancelling is an option                                       | Reduced dynamic gameplay: combat may feel less fluid and engaging.	|
 
 
 ## Conclusion
@@ -46,6 +46,15 @@ These challenges can be avoided by retaining the traditional dash mechanic, allo
 
 Ultimately, to decide to implement a dash cancel, we should consider its priority and the time needed to implement this mechanic. 
 
+## Sources
+(Anyone tried cancel dashing? (2023). Reddit.com. Geraadpleegd op 22 mei 2024, van https://www.reddit.com/r/GundamEvolution/comments/10a2qyx/anyone_tried_cancel_dashing/)  
+Shows how not everyone knows about dash cancelling, but it is an important dynamic of the game, which provides players with more advanced techniques, increasing the height of the skill ceiling.
+
+(Cyber Troopers Virtual On: Oratorio Tangram. (2020, 21 juli). supercombo.gg. Geraadpleegd op 22 mei 2024, van https://wiki.supercombo.gg/w/Cyber_Troopers_Virtual_On:_Oratorio_Tangram)  
+Under Other attacks, dash attack is one of the options. Here is explained what benefit a dash attack has. This gives players more options to use in a battle.
+
+([PC] How to evasion cancel? (2021). reddit.com. Geraadpleegd op 22 mei 2024, van https://www.reddit.com/r/Nioh/comments/m13z8a/pc_how_to_evasion_cancel/)  
+This shows that when games have dash/dodge cancels, it might not be clear to all players how to do it. Some players might not even know it is a feature.
 
 
 
