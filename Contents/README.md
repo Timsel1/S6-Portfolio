@@ -43,3 +43,4 @@
   - [Modular Arcade Kart](3.%20Deep%20Dive/1.%20Modular%20Arcade%20Kart.md)
   - [Karting Game Analysis](3.%20Deep%20Dive/2.%20Karting%20Game%20Analysis.md)    
   - [Kart System](3.%20Deep%20Dive/3.%20Kart%20System.md)
+  - [Code Management](3.%20Deep%20Dive/4.%20Code%20Management.md)
