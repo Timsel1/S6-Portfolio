@@ -11,3 +11,5 @@ A whiteboard sessions was held to determine what would be important for the pres
 A whiteboard sessions was held to determine what would be important for the presentation. I would participate in this sessions and add ideas to the board, after narrowing things down one person of the group made the presentation.
 - Project plan
 My contribution was the appendix that is written at the bottom of the document, further explaining the tasks mentioned in the document.
+- 10 Pager V2
+My contribution was Working out how the (new) abilities, enemies and boss fight will work. 
