@@ -12,19 +12,6 @@ Explanation:
 - __Thorough__ means that you triangulate using different methods of analysis and validate your insights. 
 - __Trends and developments:__ You are up to date with new trends and developments within the game industry such as: software algorithms, engines, game genres, new hardware, business models. You know when and how to use these in your products.
 
-|Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
-|:------:|:-----:|:---:|:-:|:------:|:------:|
-|__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
-|[Basic player movements](2.%20Your%20Own%20Game/1.%20Devlogs/01.%20Basic%20player%20movement.md)| Available product analysis | Explore user requirements |  |  | Prototyping, Code review |
-|[Player Animation](2.%20Your%20Own%20Game/1.%20Devlogs/05.%20Player%20Animation.md)| Literature study | Problem analysis |  |  | Prototyping, Code review |
-|[Player Attack Hitbox](2.%20Your%20Own%20Game/1.%20Devlogs/07.%20Player%20Attack%20Hitbox.md)| Literature study, Available product analysis, Community research| Observation | Usability testing| | Prototyping, Code review |
-|[Enemy Attack Indication Types](2.%20Your%20Own%20Game/1.%20Devlogs/08.%20Enemy%20Attack%20Indicator%20Type.md)| Community research, Available product analysis |  |  |  |  |
-|[Test Report Playetest 1](2.%20Your%20Own%20Game/4.%20Playtests/2.%20Test%20Report%20Playtest%201.md)|  | Interview, Observation, Survey | Usability testing |  |  |
-|[Test Report Playetest 2](2.%20Your%20Own%20Game/4.%20Playtests/4.%20Test%20Report%20Playtest%202.md)|  | Interview, Observation, Survey | Usability testing |  |  |
-|__[Deep Dive](./3.%20Deep%20Dive)__|  |  |  |  |  |
-|[Modular Arcade Kart](3.%20Deep%20Dive/1.%20Modular%20Arcade%20Kart.md)| Community research, Available product analysis |  | A/B testing |  | Prototyping |
-|[Karting Game Analysis](3.%20Deep%20Dive/2.%20Karting%20Game%20Analysis.md)| Literature study, Available product analysis |  |  |  |  |
-
 ## LO2. Advice 
 
 You are able to make recommendations about the game design process and important decisions therein based on the conclusions and results from the analysis and clearly communicate these recommendations to relevant stakeholders. 
@@ -33,14 +20,6 @@ Explanation:
 
 - With __recommendations__ we mean suggestions that you make that will help achieve desired outcomes and long-term goals. 
 - With __clearly communicate__ we mean that you communicate with the relevant stakeholders in an appropriate way. This includes written reporting and pitch presentations.
-
-|Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
-|:------:|:-----:|:---:|:-:|:------:|:------:|
-|__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
-|[Input System Advice](2.%20Your%20Own%20Game/2.%20Professional%20Documents/05.%20Input%20Stystem%20Advice.md)| Community research, Available product analysis |  |  |  |  |
-|[Test Report Playetest 1](2.%20Your%20Own%20Game/4.%20Playtests/2.%20Test%20Report%20Playtest%201.md)| Expert interview | Survey, Observation | Usability testing |  |  |
-|[Test Report Playetest 2](2.%20Your%20Own%20Game/4.%20Playtests/4.%20Test%20Report%20Playtest%202.md)| Expert interview | Survey, Observation | Usability testing |  |  |
-|[]()|  |  |  |  |  |
 
 ## LO3. Design 
 
@@ -52,24 +31,6 @@ Explanation:
 - With __using existing frameworks, theories, and models__ we mean frameworks such as: UML, ERD, Design Patterns, MDA framework and Self Determination Theory as well as concept development methods such as diverging/converging and brainstorms.
 - You __validate your designed game systems__ in an early stage using efficient and quick prototyping methods such as paper prototyping, roleplaying and wizard of Oz and use the results to refine your design.
 - __Common industry standard methods and deliverables are:__ Game Design document, Tech design document consisting of elements such as UML diagrams and software architecture diagram and prototypes such as paper prototypes, mock-ups, and user tests. 
-
-|Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
-|:------:|:-----:|:---:|:-:|:------:|:------:|
-|__[Strange Devices](./1.%20Strange%20Devices)__|  |  |  |  |  |
-|[Design a game](./1.%20Strange%20Devices/1.%20Devlogs/1.%20Design%20a%20game.md)|  |  |  |  | Brainstorm |
-|[Realise a game](./1.%20Strange%20Devices/1.%20Devlogs/2.%20Realise%20a%20game.md)|  |  |  |  | Prototyping |
-|__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
-|[1 Pager](./2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations/Crusadeon%201-Pager.pdf)|  |  |  |  |  |
-|[10 Pager](./2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations/Crusader%2010%20Pager.pdf)|  |  |  |  |  |
-|[Basic player movements](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/01.%20Basic%20player%20movement.md)| Available product analysis | Explore user requirements |  |  | Prototyping, Code review |
-|[Basic Dash](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/02.%20Basic%20Dash.md)|  |  |  | Peer review | Prototyping, Code review |
-|[Basic Attack Combo](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/03.%20Basic%20Attack%20Combo.md)|  | Explore user requirements |  |  | Prototyping, Code review |
-|[Basic Attack Direction](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/04.%20Basic%20Attack%20Direction.md)|  |  | A/B testing, Usability testing | Peer review | Prototyping, Code review |
-|[Player Animation](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/05.%20Player%20Animation.md)| Literature study | Problem analysis |  |  | Prototyping, Code review |
-|[Player Attack Hitbox](2.%20Your%20Own%20Game/1.%20Devlogs/07.%20Player%20Attack%20Hitbox.md)| Literature study, Available product analysis, Community research| Observation | Usability testing| | Prototyping, Code review |
-|[Enemy Attack Indication Types](2.%20Your%20Own%20Game/1.%20Devlogs/08.%20Enemy%20Attack%20Indicator%20Type.md)| Available product analysis, Community research | | | | |
-|[__Deep Dive__](3.%20Deep%20Dive)| | | | | |
-|[Modular Arcade Kart](3.%20Deep%20Dive/1.%20Modular%20Arcade%20Kart.md)|Community research, Available product analysis |  | A/B testing |  | Prototyping |
 
 ## LO4. Realization 
 
@@ -85,23 +46,6 @@ Explanation:
 - You use __innovative and relevant technology__ that suit your needs such as VR headsets, Mobile devices, Game Controllers, Industry Standard Game Engines. 
 - A __complex context__ means that the scope and complexity of both the situation and the product are representative of a real world industry setting.
 
-|Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|[Extra](https://ictresearchmethods.nl/extra/)|
-|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
-|__[Strange Devices](./1.%20Strange%20Devices)__|  |  |  |  |  |  |
-|[Realise a game](./1.%20Strange%20Devices/1.%20Dev%20Logs/2.%20Realise%20a%20game.md)|  |  |  |  | Prototyping | |
-|__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  | |
-|[Basic player movements](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/01.%20Basic%20player%20movement.md)| Available product analysis | Explore user requirements |  |  | Prototyping, Code review | |
-|[Basic Dash](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/02.%20Basic%20Dash.md)|  |  |  | Peer review | Prototyping, Code review | |
-|[Basic Attack Combo](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/03.%20Basic%20Attack%20Combo.md)|  | Explore user requirements |  |  | Prototyping, Code review | |
-|[Basic Attack Direction](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/04.%20Basic%20Attack%20Direction.md)|  |  | A/B testing, Usability testing | Peer review | Prototyping, Code review | |
-|[Player Animation](./2.%20Your%20Own%20Game/1.%20Dev%20Logs/05.%20Player%20Animation.md)| Literature study | Problem analysis |  |  | Prototyping, Code review | |
-|[New Player Rotation](2.%20Your%20Own%20Game/1.%20Devlogs/06.%20New%20Player%20Rotation.md)| | | Usability testing| |Code review | |
-|[Player Attack Hitbox](2.%20Your%20Own%20Game/1.%20Devlogs/07.%20Player%20Attack%20Hitbox.md)|Literature study, Available product analysis, Community research| Observation | Usability testing| | Prototyping, Code review | |
-|[Enemy Attack Indication Implementation](2.%20Your%20Own%20Game/1.%20Devlogs/09.%20Enemy%20Attack%20Indicator%20Implementation.md)| Literature study| | | |Prototyping, Code review | Joker|
-|[]()| | | | | | |
-|[__Deep Dive__](3.%20Deep%20Dive)| | | | | | |
-|[Modular Arcade Kart](3.%20Deep%20Dive/1.%20Modular%20Arcade%20Kart.md)| Community research, Available product analysis |  | A/B testing |  | Prototyping | |
-
 ## LO5. Manage and control 
 
 You are able to work in a structured and methodical way both individually as well as in a group context where you use relevant processes and tooling to facilitate your iterative process in order to achieve a desired level of quality. 
@@ -111,14 +55,6 @@ Explanation:
 - With both __individually as well as in a group context__ we mean that you show you can adjust the process accordingly. 
 - With __relevant processes and tooling__ we mean processes and tools that are industry standard in order to effectively communicate and cooperate such as Scrum, version control tools and build management tools. 
 - With __quality__ we mean that you are able to define a level of quality to adhere to in accordance with stakeholders. Non-functional requirements such as stability, performance, security could be used to define these criteria. This includes elements such as automated tests, code reviews and continuous integration and building setups. 
-
-|Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
-|:------:|:-----:|:---:|:-:|:------:|:------:|
-|__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
-|[Group Manifesto](2.%20Your%20Own%20Game/3.%20Project%20Management/1.%20Group%20Manifesto.md)|  |  |  |  |  |
-|[Code Convention](2.%20Your%20Own%20Game/3.%20Project%20Management/2.%20Code%20Convention.md)|  |  |  |  |  |
-|[Code Management](2.%20Your%20Own%20Game/3.%20Project%20Management/3.%20Code%20Management.md)|  |  |  |  |  |
-|[Agile Work Method](2.%20Your%20Own%20Game/3.%20Project%20Management/4.%20Agile%20Work%20Method.md)|  |  |  |  |  |
 
 ## LO6. Professional skills
 
@@ -133,21 +69,3 @@ Being a future-oriented professional means that you:
 - Act according to __ethical standards and show responsibility__ whenever ethical standards are at stake
 _ Are able to __define the project’s need for information and are able to design a straightforward methodology__ to address this need using the DOT framework, method cards and method chaining.
 - Are __proactive in describing and monitoring the quality of your work__ by incorporating validation and document your work effectively. As a result your work is reproducible and transparent. And your outcomes can be used by others (hand-over).
-
-|Document|[Library](https://ictresearchmethods.nl/library/)|[Field](https://ictresearchmethods.nl/Field/)|[Lab](https://ictresearchmethods.nl/Lab/)|[Showroom](https://ictresearchmethods.nl/Showroom/)|[Workshop](https://ictresearchmethods.nl/Workshop/)|
-|:------:|:-----:|:---:|:-:|:------:|:------:|
-|__[Strange Devices](./1.%20Strange%20Devices)__|  |  |  |  |  |
-|[Validate the game](1.%20Strange%20Devices/1.%20Devlogs/3.%20Validate%20the%20game.md)|  | Observation | Usability testing | Peer review |  |
-|__[Your Own Game](./2.%20Your%20Own%20Game)__|  |  |  |  |  |
-|[1 Pager](./2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations/Crusadeon%201-Pager.pdf)|  |  |  |  |  |
-|[10 Pager](./2.%20Your%20Own%20Game/2.%20Documents%20and%20Presentations/Crusader%2010%20Pager.pdf)|  |  |  |  |  |
-|[Pitch Presentation](2.%20Your%20Own%20Game/2.%20Professional%20Documents/3.%20Crusadeon%20Pitch%20Presentation.pdf)|  |  |  |  |  |
-|[Retrospectives](2.%20Your%20Own%20Game/2.%20Professional%20Documents/4.%20Retrospectives.md)|  |  |  |  |  |
-|[Role And Future](2.%20Your%20Own%20Game/2.%20Professional%20Documents/6.%20Role%20And%20Future.md)|  |  |  |  |  |
-|[Dragons' Den Presentation](2.%20Your%20Own%20Game/2.%20Professional%20Documents/7.%20Rogue%20Ape%20Studio%20Dragons%20Den%20Presentation.pdf)|  |  |  |  |  |
-|[Code Management](2.%20Your%20Own%20Game/3.%20Project%20Management/3.%20Code%20Management.md)|  |  |  |  |  |
-|[Agile Work Method](2.%20Your%20Own%20Game/3.%20Project%20Management/4.%20Agile%20Work%20Method.md)|  |  |  |  |  |
-|[First Playtest Results](2.%20Your%20Own%20Game/4.%20Playtests/1.%20First%20Playtest%20Results.md)| Expert interview | Survey |  |  |  |
-|[Test Report Playetest 1](2.%20Your%20Own%20Game/4.%20Playtests/2.%20Test%20Report%20Playtest%201.md)|Expert interview | Survey, Observation | Usability testing |  |  |
-|[Second Playtest Results](2.%20Your%20Own%20Game/4.%20Playtests/3.%20Second%20Playtest%20Results.md)| Expert interview | Survey |  |  |  |
-|[Test Report Playetest 2](2.%20Your%20Own%20Game/4.%20Playtests/4.%20Test%20Report%20Playtest%202.md)| Expert interview | Survey, Observation | Usability testing |  |  |
